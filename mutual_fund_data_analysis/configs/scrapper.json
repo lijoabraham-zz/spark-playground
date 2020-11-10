@@ -1,0 +1,7 @@
+{
+  "search_url": "https://www.valueresearchonline.com/funds/selector-data/primary-category/2/debt/?end-type=1&plan-type=direct&star-rating=5%2C4%2C3%2C2%2C1&exclude=suspended-plans&tab=snapshot&output=html-data",
+  "file_name": "mutual_funds_{}.json",
+  "cred_rating_url": "https://www.valueresearchonline.com/api/funds/credit-rating-chart/",
+  "output_path": "./data/",
+  "mf_list_num": 1000
+}

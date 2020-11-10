@@ -1,0 +1,228 @@
+1600256849567	geckodriver	INFO	Listening on 127.0.0.1:35895
+1600256849568	geckodriver	INFO	Listening on 127.0.0.1:33917
+1600256849573	geckodriver	INFO	Listening on 127.0.0.1:56757
+1600256849573	geckodriver	INFO	Listening on 127.0.0.1:57655
+1600256849575	geckodriver	INFO	Listening on 127.0.0.1:56993
+1600256849577	geckodriver	INFO	Listening on 127.0.0.1:52353
+1600256849586	geckodriver	INFO	Listening on 127.0.0.1:51189
+1600256849607	geckodriver	INFO	Listening on 127.0.0.1:57419
+1600256849667	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekZYQqJ"
+1600256849668	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHvU4lw"
+1600256849668	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilec4LguE"
+1600256849672	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIOMEwo"
+1600256849677	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7DD8jf"
+1600256849677	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHUTJww"
+1600256849678	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3GUGB9"
+1600256849678	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZNxjum"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600256880046	Marionette	INFO	Listening on port 44273
+1600256880077	Marionette	INFO	Listening on port 38709
+1600256880095	Marionette	INFO	Listening on port 33987
+1600256880104	Marionette	INFO	Listening on port 34775
+1600256880110	Marionette	INFO	Listening on port 34769
+1600256880121	Marionette	INFO	Listening on port 35929
+1600256880123	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600256880151	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600256880193	Marionette	INFO	Listening on port 33395
+1600256880197	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600256880219	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600256880220	Marionette	INFO	Listening on port 37085
+1600256880288	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600256880304	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600256880312	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600256880344	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.valueresearchonline.com/assets/js/script__slash__funds__slash__219__slash__.js?ver=354, line 120: unreachable code after return statement
+JavaScript warning: https://www.valueresearchonline.com/assets/js/script__slash__funds__slash__219__slash__.js?ver=354, line 120: unreachable code after return statement
+JavaScript warning: https://www.valueresearchonline.com/assets/js/script__slash__funds__slash__219__slash__.js?ver=354, line 120: unreachable code after return statement
+JavaScript warning: https://www.valueresearchonline.com/assets/js/script__slash__funds__slash__219__slash__.js?ver=354, line 120: unreachable code after return statement
+JavaScript warning: https://www.valueresearchonline.com/assets/js/script__slash__funds__slash__219__slash__.js?ver=354, line 120: unreachable code after return statement
+JavaScript warning: https://www.valueresearchonline.com/assets/js/script__slash__funds__slash__219__slash__.js?ver=354, line 120: unreachable code after return statement
+JavaScript warning: https://www.valueresearchonline.com/assets/js/script__slash__funds__slash__219__slash__.js?ver=354, line 120: unreachable code after return statement
+JavaScript warning: https://www.valueresearchonline.com/assets/js/script__slash__funds__slash__219__slash__.js?ver=354, line 120: unreachable code after return statement
+1600256906443	geckodriver	INFO	Listening on 127.0.0.1:42743
+1600256907449	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNjHClS"
+1600256913663	geckodriver	INFO	Listening on 127.0.0.1:46971
+1600256914089	geckodriver	INFO	Listening on 127.0.0.1:44627
+1600256914349	geckodriver	INFO	Listening on 127.0.0.1:59575
+1600256914575	geckodriver	INFO	Listening on 127.0.0.1:51609
+1600256914670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1rNvCs"
+1600256915091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekb6bGE"
+1600256915355	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6ShaH8"
+1600256915578	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA76HA6"
+1600256916007	geckodriver	INFO	Listening on 127.0.0.1:33261
+1600256916191	geckodriver	INFO	Listening on 127.0.0.1:56917
+1600256917010	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6iF3ZT"
+1600256917195	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekA1kjk"
+1600256917942	geckodriver	INFO	Listening on 127.0.0.1:44321
+1600256919865	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileItTjdL"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600256926897	Marionette	INFO	Listening on port 44719
+1600256926958	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600256931540	geckodriver	INFO	Listening on 127.0.0.1:57061
+1600256931542	geckodriver	INFO	Listening on 127.0.0.1:35967
+1600256931544	geckodriver	INFO	Listening on 127.0.0.1:40165
+1600256931563	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCYayRh"
+1600256931571	geckodriver	INFO	Listening on 127.0.0.1:55131
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1600256931581	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7pj3TV"
+1600256931591	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEmRAnt"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1600256931601	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilednS5Lh"
+1600256931606	geckodriver	INFO	Listening on 127.0.0.1:53793
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1600256931610	geckodriver	INFO	Listening on 127.0.0.1:47819
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1600256931611	geckodriver	INFO	Listening on 127.0.0.1:39509
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1600256931632	geckodriver	INFO	Listening on 127.0.0.1:57291
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1600256931666	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilec7WxKu"
+1600256931666	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMu2dms"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1600256931695	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAWH8x0"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1600256932593	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW2Nzu4"
+1600258565309	geckodriver	INFO	Listening on 127.0.0.1:52385
+1600258565315	geckodriver	INFO	Listening on 127.0.0.1:56045
+1600258565319	geckodriver	INFO	Listening on 127.0.0.1:51225
+1600258565341	geckodriver	INFO	Listening on 127.0.0.1:34683
+1600258565343	geckodriver	INFO	Listening on 127.0.0.1:34689
+1600258565346	geckodriver	INFO	Listening on 127.0.0.1:58947
+1600258565351	geckodriver	INFO	Listening on 127.0.0.1:41139
+1600258565353	geckodriver	INFO	Listening on 127.0.0.1:38795
+1600258565357	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileolAl2A"
+1600258565360	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUZvMST"
+1600258565365	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOUBuiw"
+1600258565369	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG8Td8z"
+1600258565370	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDV49zr"
+1600258565375	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileo9QgT7"
+1600258565377	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEmnus8"
+1600258565378	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO8JmXA"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600258580466	Marionette	INFO	Listening on port 42095
+1600258580543	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600258580620	Marionette	INFO	Listening on port 33501
+1600258580653	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600258580738	Marionette	INFO	Listening on port 37893
+1600258580807	Marionette	INFO	Listening on port 37917
+1600258580834	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600258580843	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600258580849	Marionette	INFO	Listening on port 46147
+1600258580910	Marionette	INFO	Listening on port 43351
+1600258580976	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600258580981	Marionette	INFO	Listening on port 44803
+1600258580988	Marionette	INFO	Listening on port 41583
+1600258581023	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600258581029	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600258581035	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.valueresearchonline.com/assets/js/script__slash__funds__slash__219__slash__.js?ver=354, line 120: unreachable code after return statement
+JavaScript warning: https://www.valueresearchonline.com/assets/js/script__slash__funds__slash__219__slash__.js?ver=354, line 120: unreachable code after return statement
+JavaScript warning: https://www.valueresearchonline.com/assets/js/script__slash__funds__slash__219__slash__.js?ver=354, line 120: unreachable code after return statement
+JavaScript warning: https://www.valueresearchonline.com/assets/js/script__slash__funds__slash__219__slash__.js?ver=354, line 120: unreachable code after return statement
+JavaScript warning: https://www.valueresearchonline.com/assets/js/script__slash__funds__slash__219__slash__.js?ver=354, line 120: unreachable code after return statement
+JavaScript warning: https://www.valueresearchonline.com/assets/js/script__slash__funds__slash__219__slash__.js?ver=354, line 120: unreachable code after return statement
+JavaScript warning: https://www.valueresearchonline.com/assets/js/script__slash__funds__slash__219__slash__.js?ver=354, line 120: unreachable code after return statement
+1600258595223	geckodriver	INFO	Listening on 127.0.0.1:38165
+1600258595999	geckodriver	INFO	Listening on 127.0.0.1:35455
+1600258596138	geckodriver	INFO	Listening on 127.0.0.1:60001
+1600258596229	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOgSooO"
+*** You are running in headless mode.
+1600258596991	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMvYrOB"
+1600258597143	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePLqwXM"
+*** You are running in headless mode.
+*** You are running in headless mode.
+1600258599344	geckodriver	INFO	Listening on 127.0.0.1:60247
+1600258599358	geckodriver	INFO	Listening on 127.0.0.1:37521
+1600258599358	geckodriver	INFO	Listening on 127.0.0.1:34983
+1600258599364	geckodriver	INFO	Listening on 127.0.0.1:33549
+1600258599370	geckodriver	INFO	Listening on 127.0.0.1:45655
+Exiting due to channel error.
+1600258599379	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile06Mv5V"
+1600258599380	geckodriver	INFO	Listening on 127.0.0.1:36745
+Exiting due to channel error.
+Exiting due to channel error.
+1600258599389	geckodriver	INFO	Listening on 127.0.0.1:35185
+1600258599397	geckodriver	INFO	Listening on 127.0.0.1:59935
+1600258599413	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSSDweG"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1600258599438	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled8X2fK"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+1600258600334	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileopS280"
+1600258600361	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezWf2vb"
+1600258600363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOaEBMi"
+1600258600365	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekUGwOF"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+1600258600506	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecg3uxv"
+*** You are running in headless mode.
