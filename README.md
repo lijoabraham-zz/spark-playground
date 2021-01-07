@@ -10,7 +10,6 @@
 ## My Blogs about spark and ML
 
 - [Medium](https://medium.com/@lijoabraham1234)
-- [Imaginea](https://blog.imaginea.com/author/lijo-abraham/)
 
 
 ## To run the jupyter notebook
